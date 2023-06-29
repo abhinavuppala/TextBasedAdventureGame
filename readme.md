@@ -1,6 +1,12 @@
 # Text Based Adventure Game
 
-Using Java, I created this game as my capstone project in AP Computer Science A, during my junior year of high school. This project didn't use any modules or addons except for the Scanner class to take in user input. The player travels on a 2D grid, fighting enemies and purchasing buffs using gold obtained when beating enemies. This project was completely written by me, Abhinav Uppala.
+Using Java, I created this game as my capstone project in AP Computer Science A, during my junior year of high school. This project didn't use any modules or addons except for the Scanner class to take in user input. The player travels on a 2D grid, fighting enemies and purchasing buffs using gold obtained when beating enemies. This project was completely written by me, Abhinav Uppala. The game is pretty basic, mainly due to the fact that it was around finals week at the time that I developed it, I was working alone for a deadline, and my limited knowledge about Java and possible modules I could have used that may have provided a better gameplay experience or made it easier to code. In any case, while I didn't learn much more about Java syntax, it allowed me to put my knowledge from school into use in a much more large-scale project than before with Java, and gave me more experience in problem solving and debugging.
+
+### How to Play
+
+1. Download these files as a ZIP, then extract in your local directory
+2. Open in a Java 8 IDE, such as VSCode
+3. Run Driver.java, and play the game in the console
 
 ## Classes
 
